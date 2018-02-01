@@ -8,7 +8,7 @@
      </style>
      <script>
 Function initial (){
-    nome.innerhtml= "Bruno";
+    document.getElementById("nome").innerHTML= "Bruno";
 }
 window.onload= initial;
      </script>
