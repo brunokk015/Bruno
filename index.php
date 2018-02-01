@@ -1,14 +1,22 @@
-<html>
-<Head>
-<title>abcd</title>
-</Head>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+     <title>Recomeço</title>
+     <meta charset="utf-8">
+     <style>
+         font-family: Arial,sans-serif;
+     </style>
+     <script>
+Function initial (){
+    nome.innerhtml= "Bruno";
+}
+window.onload= initial;
+     </script>
+</head>
 <body>
-<p>Hello World! </p>
-<p>Aqui farei meus testes com div etc... </p>
-<img src="ss.jpg"  width="100" height="100">
-</body> 
+    <!--comentário teste-->
+    <p id="nome"></p>
+    Retrabalhando &nbsp; tudo desde o inicio ççç´´´~~~
+    15,99 &euro; 
+</body>
 </html>
-<?php
-echo "Primeiro teste"
-?>
-
